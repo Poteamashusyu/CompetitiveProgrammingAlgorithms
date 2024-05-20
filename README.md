@@ -1,3 +1,3 @@
 # CompetitiveProgrammingAlgorithms
-My handmade algorithms.
-Stick to generalize.
+My handmade algorithms.  
+Stick to generalize.  
