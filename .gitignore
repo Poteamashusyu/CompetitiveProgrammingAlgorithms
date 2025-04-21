@@ -33,3 +33,7 @@
 
 # vscode environment
 .vscode/
+
+# Input/Output file
+*.in
+*.out
